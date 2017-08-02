@@ -1,6 +1,6 @@
 `POST /api/v1/authorize`
 
-## Login
+## <a name="login"></a>Login
 
 `POST /api/v1/authorize`
 
@@ -38,7 +38,7 @@
 
 ```
 
-## Login by refresh token
+## <a name="loginByRefreshToken"></a>Login by refresh token
 
 `POST /api/v1/authorize/refresh`
 
@@ -69,7 +69,7 @@
 
 ```
 
-## Logout
+## <a name="logout"></a>Logout
 `GET /api/v1/logout`
 
 ### Request results
@@ -87,7 +87,7 @@
 
 ```
 
-### Check phone on serve
+## <a name="checkPhoneOnServer"></a>Check phone on server
 
 `POST /api/v1/check/phone/`
 
@@ -129,7 +129,7 @@
 
 ```
 
-## Check email on server
+## <a name="checkEmailOnServer"></a>Check email on server
 
 `POST /api/v1/check/email/`
 
@@ -171,7 +171,7 @@
 
 ```
 
-## Check iban on server
+## <a name="checkIbanOnServer"></a>Check iban on server
 
 `POST /api/v1/check/iban/`
 
@@ -213,7 +213,7 @@
 
 ```
 
-## Register
+## <a name="register"></a>Register
 
 `POST /api/v1/user`
 
@@ -257,7 +257,7 @@
 
 ```
 
-## SMS Password
+## <a name="smsPassword"></a>SMS Password
 
 `POST /api/v1/password-recovery`
 
@@ -288,7 +288,7 @@
 ```
 
 
-## Forgot Password
+## <a name="forgotPassword"></a>Forgot Password
 
 `POST /api/v1/password-recovery`
 
@@ -318,7 +318,7 @@
 
 ```
 
-## APNs token
+## <a name="apnsToken"></a>APNs token
 
 `POST /api/v1/push/ios/`
 
