@@ -21,7 +21,7 @@ After authorization in all the queries put a token in the header
 ### USER
 
 * [Get user details](docs/user.md#user_details)
-* [Update user profile](docs/user.md#update_profile)
+* [Update user profile](docs/user.md#updateProfile)
 * Get my renting requests
 * Update renting request status
 * Delete renting requests
