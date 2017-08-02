@@ -7,20 +7,20 @@ After authorization in all the queries put a token in the header
 ### AUTHORIZATION
 
 * [Login](docs/authorization.md#login)
-* [Login by refresh token](docs/authorization.md#login-by-refresh-token)
+* [Login by refresh token](docs/authorization.md#loginByRefreshToken)
 * [Logout](docs/authorization.md#logout)
-* [Check phone on server](docs/authorization.md#check-phone-on-server)
-* [Check email on server](docs/authorization.md#check-email-on-server)
-* [Check iban on server](docs/authorization.md#check-iban-on-server)
+* [Check phone on server](docs/authorization.md#checkPhoneOnServer)
+* [Check email on server](docs/authorization.md#checkEmailOnServer)
+* [Check iban on server](docs/authorization.md#checkIbanOnServer)
 * [Register](docs/authorization.md#register)
-* [SMS Password](docs/authorization.md#sms-password)
-* [Forgot Password](docs/authorization.md#forgot-password)
-* [APNs token](docs/authorization.md#apns-token)
+* [SMS Password](docs/authorization.md#smsPassword)
+* [Forgot Password](docs/authorization.md#forgotPassword)
+* [APNs token](docs/authorization.md#apnsToken)
 
 <a name="user"></a>
 ### USER
 
-* [Get user details](docs/user.md#user_details)
+* [Get user details](docs/user.md#userDetails)
 * [Update user profile](docs/user.md#updateProfile)
 * Get my renting requests
 * Update renting request status
