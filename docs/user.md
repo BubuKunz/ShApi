@@ -69,7 +69,7 @@ Authorization : Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjU5MDcsImlz
 ```
 
 
-### <a name="#updateProfile"></a>Update user profile
+### <a name="updateProfile"></a>Update user profile
 
 `PUT /api/v1/myaccount/`
 
